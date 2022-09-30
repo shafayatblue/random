@@ -1,0 +1,8 @@
+{
+  "name": "testing_gh_token",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/shafayatblue/random.git",
+  "author": "Mykola <mykolatymofieiev@gmail.com>",
+  "license": "MIT"
+}
